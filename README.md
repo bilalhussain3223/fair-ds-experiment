@@ -99,8 +99,8 @@ All steps required to reproduce the experiment will be documented and updated th
 
 ## 👥 Contributors
 
-* A – Szegedy Konrad
-* B – Riaz Muhammad Athar 12449141
+* A – Konrad Szegedy 12024699
+* B – Muhammad Athar Riaz 12449141
 * C – Muhammad Bilal Hussain 12442081
 * D – Edeh Ekene 12451120
 
