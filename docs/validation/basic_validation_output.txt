@@ -1,0 +1,1 @@
+Basic local validation passed. This is not a replacement for the official ro-crate-validator.
