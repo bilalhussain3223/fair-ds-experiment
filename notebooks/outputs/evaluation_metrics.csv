@@ -1,0 +1,2 @@
+model,target,r2,mse,rmse,mae,test_size,train_size
+XGBRegressor,value_end_mln,0.870225566217627,65.53961631835259,8.095654162472146,5.5634734713761365,751,1751
